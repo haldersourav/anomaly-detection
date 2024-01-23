@@ -7,3 +7,4 @@ A set of five anomaly detection algorithms are described as well as compared her
 5) Local Outlier Factor
 
 For more details, visit this link: https://scikit-learn.org/0.20/auto_examples/plot_anomaly_comparison.html
+
